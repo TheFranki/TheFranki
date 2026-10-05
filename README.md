@@ -1,5 +1,6 @@
-## Hi there 👋
+# ¡Hola! Soy Franco Urzúa Silva 👋
 
+Estudiante de último año de **Ingeniería en Informática** en el Instituto Profesional Santo Tomás.
 <!--
 **TheFranki/TheFranki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
