@@ -1,4 +1,4 @@
-# ¡Hola! Soy Franco Urzúa Silva 👋
+# ¡Hola! Soy Franco Urzúa Silva
 
 Estudiante de último año de **Ingeniería en Informática** en el Instituto Profesional Santo Tomás.
 <!--
