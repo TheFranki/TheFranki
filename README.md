@@ -9,7 +9,7 @@
 
 ---
 
-## ⚔️ Perfil del jugador
+## Mi Perfil
 
 ```text
 Nombre       : TheFranki
