@@ -20,35 +20,8 @@ Pasatiempos  : Escuchar música, jugar, imprimir en 3D
 Estado       : Ganando EXP...
 ```
 
-## 🎮 Mis mundos
 
-<table>
-<tr>
-<td align="center" width="33%">
-<img src="https://placehold.co/240x120/181818/eeeeee?text=MONSTER+HUNTER" width="100%" alt="Monster Hunter"/>
-<br/><b>🐉 Monster Hunter</b>
-<br/>Hunt · Craft · Repeat
-</td>
-<td align="center" width="33%">
-<img src="https://placehold.co/240x120/20243b/e4d7a4?text=FIRE+EMBLEM" width="100%" alt="Fire Emblem"/>
-<br/><b>♟️ Fire Emblem</b>
-<br/>Tactics · Bonds · Strategy
-</td>
-<td align="center" width="33%">
-<img src="https://placehold.co/240x120/111111/c9c9c9?text=Nier%3AAutomata" width="100%" alt="NieR:Automata"/>
-<br/><b>⚙️ NieR:Automata</b>
-<br/>Glory to Mankind
-</td>
-</tr>
-</table>
-
-## 🛠️ Arsenal tecnológico
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=js,ts,react,python,git,docker,linux,vscode&theme=dark" alt="Tecnologías"/>
-</p>
-
-## 📊 Registros de combate
+## Registros de mis aventuras
 
 <p align="center">
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=TheFranki&show_icons=true&theme=github_dark&hide_border=true&title_color=c9c9c9&icon_color=8b1e1e" alt="Estadísticas de GitHub"/>
