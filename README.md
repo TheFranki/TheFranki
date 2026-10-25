@@ -11,7 +11,7 @@
 
 * Actualmente soy estudiante de Ingeniería en Informática y estoy enfocado en expandir mis conocimientos en desarrollo web y móvil.
 * Aprendiendo de forma activa tecnologías mediante cursos y proyectos prácticos.
-* Mi objetivo es convertirme en Desarrollador Full Stack y crear aplicaciones funcionales, intuitivas y escalables.
+* Mi objetivo es convertirme en Desarrollador Full Stack y crear aplicaciones funcionales que ayuden a las personas
 
 ---
 
@@ -32,17 +32,6 @@
   <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
 </div>
 
----
-
-### Estadísticas de GitHub
-
-<div align="center">
-  <table>
-    <tr>
-      <td><img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" /></td>
-      <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" /></td>
-    </tr>
-  </table>
 </div>
 
 <div align="center">
