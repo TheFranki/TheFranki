@@ -2,7 +2,9 @@
 
 Estudiante de **Ingeniería en Informática** en el Instituto Profesional Santo Tomás.
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=430&lines=Hola%2C+soy+Desarrollador+Full+Stack;Me+apasiona+la+ciberseguridad;¡Bienvenido+a+mi+perfil!" alt="Typing SVG" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=TU-USUARIO&show_icons=true&theme=radical" alt="Stats de GitHub" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU-USUARIO&layout=compact&theme=radical" alt="Lenguajes más usados" />
 </p>
