@@ -14,10 +14,10 @@
 ```text
 Nombre       : TheFranki
 Clase        : Estudiante de Ingeniería Informática
-Misión       : Convertir café en código
+Misión       : Explorar nuevas ideas
 Especialidad : Desarrollo de software
-Pasatiempos  : Monster Hunter · Fire Emblem · NieR:Automata
-Estado       : Grinding EXP...
+Pasatiempos  : Escuchar música, jugar, imprimir en 3D
+Estado       : Ganando EXP...
 ```
 
 ## 🎮 Mis mundos
